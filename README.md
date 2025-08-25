@@ -5,7 +5,7 @@ Quản lý lịch hẹn bệnh nhân & bác sĩ.
 ##  Cài đặt
 ```bash
 npm install
-npm run dev
+npm start
  API Endpoints
 POST /api/appointments → Tạo lịch hẹn
 
